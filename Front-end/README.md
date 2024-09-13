@@ -14,6 +14,7 @@ This project doesn't use Docker. In this documentation you will find the technol
 ### 2.1 Prerequisites
 
 -[NodeJS (**version 22.7.0**)](https://nodejs.org/fr/blog/release/v22.7.0)
+-[NodeJS (**version 12.18.4**)](https://nodejs.org/fr/blog/release/v12.18.4)
 -[Yarn (**version 1.22.22**)](https://classic.yarnpkg.com/lang/en/docs/getting-started/)
 -[React (**version 18.3.1**)](https://legacy.reactjs.org/docs/getting-started.html)
 -[Vite (**version 5.3.4**)](https://vitejs.dev/guide/)
@@ -22,6 +23,9 @@ If you are working with several versions of NodeJS, we recommend you install [nv
 
 ### 2.2 Launching the project
 
+For Back-end : Please follow the instructions provided by the ReadMe present in the back-end folder 
+
+For Front-End:
 - Fork the repository
 - Clone it on your computer.
 - The `yarn` command will allow you to install the dependencies.

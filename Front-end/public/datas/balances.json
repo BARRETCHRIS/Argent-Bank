@@ -1,44 +1,17 @@
 [
     {
-        "id": "1",
-        "fKey": "66d1dd5438a5483c508d850d",
         "title": "Argent Bank Checking (x8349)" ,
         "amount": "2,082.79",
         "description": "Available Balance"
     },
     {
-        "id": "2",
-        "fKey": "66d1dd5438a5483c508d850d",
         "title": "Argent Bank Checking (x6712)" ,
         "amount": "10,928.42",
         "description": "Available Balance"
     },
     {
-        "id": "3",
-        "fKey": "66d1dd5438a5483c508d850d",
         "title": "Argent Bank Checking (x8349)" ,
         "amount": "184.30",
-        "description": "Current Balance"
-    },
-    {
-        "id": "4",
-        "fKey": "66d1dd5438a5483c508d850c",
-        "title": "Argent Bank Checking (x1242)" ,
-        "amount": "1570.79",
-        "description": "Available Balance"
-    },
-    {
-        "id": "5",
-        "fKey": "66d1dd5438a5483c508d850c",
-        "title": "Argent Bank Checking (x4548)" ,
-        "amount": "8120.51",
-        "description": "Available Balance"
-    },
-    {
-        "id": "6",
-        "fKey": "66d1dd5438a5483c508d850c",
-        "title": "Argent Bank Checking (x1242)" ,
-        "amount": "8120.51",
         "description": "Current Balance"
     }
 ]
